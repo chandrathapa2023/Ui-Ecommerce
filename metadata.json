@@ -1,0 +1,7 @@
+{
+  "name": "Aethel Headless Shopify Storefront",
+  "description": "Production-ready headless Shopify ecommerce storefront UI with modern catalog discovery, PDP variant selection, cart drawer, customer account portal, and B2B wholesale capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
